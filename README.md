@@ -5,8 +5,8 @@ It can detect plant diseases, alert the farmer via SMS, and remotely deliver fer
 A line-following robot module is being developed for autonomous farm navigation.
 
 > 🚧 **Project Status: Work in Progress**  
-> Machine learning + SMS + dosing control are functional.  
-> Line-following navigation is partially complete and currently being tuned.
+> Machine learning + SMS + Line-following navigation are functional.  
+> control unit is partially complete 
 
 ---
 
